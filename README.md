@@ -4,7 +4,7 @@ I'm a full-stack web developer based in Toronto, currently working with the wond
 
 > https://jamesrwilliams.ca
 
-Or socials: [Twitter](https://www.twitter.com/James_RWilliams), [Instagram](https://instagram.com/thejamesrwilliams), [LinkedIn](https://uk.linkedin.com/in/thejamesrwilliams), [CodePen](https://codepen.io/jamesrwilliams/)
+Socials: [Twitter](https://www.twitter.com/James_RWilliams), [Instagram](https://instagram.com/thejamesrwilliams), [LinkedIn](https://uk.linkedin.com/in/thejamesrwilliams), [CodePen](https://codepen.io/jamesrwilliams/)
 
 <!--
 **jamesrwilliams/jamesrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
