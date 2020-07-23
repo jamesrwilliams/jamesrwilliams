@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a full-stack web developer based in Toronto, currently working with the wonderful team at [Points](https://points.com), who enjoys building delightfully fast, easy to use, and engaging digital projects.
+
 <!--
 **jamesrwilliams/jamesrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
