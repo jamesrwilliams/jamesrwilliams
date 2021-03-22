@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack web developer based in Toronto, currently working with the wonderful team at [Points](https://points.com), who enjoys building delightfully fast, easy to use, and engaging digital projects.
+I'm a development engineer based in Canada. Currently working with the wonderful team at [Points](https://points.com), who enjoys building delightfully fast, easy to use, and engaging digital projects.
 
 > https://jamesrwilliams.ca
 
