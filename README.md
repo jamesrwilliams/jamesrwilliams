@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrwilliams&layout=compact&langs_count=6" />
 
-I'm a development engineer based in Canada. Currently working with the wonderful team at [Points](https://points.com), who enjoys building delightfully fast, easy to use, and engaging digital projects.
+I’m James, a <em>Principal Engineer</em> working with the folks at [Points](https://points.com). I work on front-end architecture, developer experience, and the less-glamorous work of keeping large systems maintainable as they grow.
 
 > https://jamesrwilliams.ca
 
