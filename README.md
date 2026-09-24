@@ -1,26 +1,12 @@
-### Hi there 👋
+### Hi, I'm James R. Williams 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrwilliams&layout=compact&langs_count=6" />
+I'm a Principal Engineer at [Points](https://www.points.com), a Plusgrade company. I set front-end technical strategy for a loyalty commerce platform used by 10+ travel and hospitality brands, and spend most of my time on architecture, developer experience, and keeping large systems maintainable as they grow.
 
-I’m James, a <em>Principal Engineer</em> working with the folks at [Points](https://points.com). I work on front-end architecture, developer experience, and the less-glamorous work of keeping large systems maintainable as they grow.
+Most of that work lives in private repos, so what's here is side projects and older experiments. The better picture is on my site:
 
-> https://jamesrwilliams.ca
+- **[Selected work](https://jamesrwilliams.ca/work)**: what I've built and what changed because of it
+- **[Tech Lead to Principal: What actually changed](https://jamesrwilliams.ca/posts/tech-lead-to-principal-what-actually-changed)**
+- **[Being Right Is Not Enough](https://jamesrwilliams.ca/posts/being-right-is-not-enough)**
+- **[A headless CMS for Salesforce Commerce Cloud with React](https://jamesrwilliams.ca/posts/salesforce-commerce-cloud-headless-cms-with-react)**
 
-Socials: [Twitter](https://www.twitter.com/James_RWilliams), [Instagram](https://instagram.com/thejamesrwilliams), [LinkedIn](https://uk.linkedin.com/in/thejamesrwilliams), [CodePen](https://codepen.io/jamesrwilliams/)
-
-
-
-<!--
-**jamesrwilliams/jamesrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Elsewhere: [jamesrwilliams.ca](https://jamesrwilliams.ca) · [Bluesky](https://bsky.app/profile/jamesrwilliams.ca) · [LinkedIn](https://www.linkedin.com/in/thejamesrwilliams)
